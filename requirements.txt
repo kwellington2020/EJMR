@@ -1,0 +1,17 @@
+requests 
+beautifulsoup4
+retry
+alive_progress
+scikit-learn
+numpy
+natsort
+gensim
+pandas
+nltk
+pyprojroot
+spacy
+fire
+detoxify
+matplotlib
+fake_useragent
+torpy
